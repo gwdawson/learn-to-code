@@ -39,7 +39,7 @@ This freeCodeCamp module dives deeper into JavaScript, covering essential algori
 ---
 ---
 
-### HTML? CSS? JAVASCTIPT?
+### HTML? CSS? JAVASCRIPT?
 
 When building websites, HTML, CSS, and JavaScript work together to create what you see and interact with on the web. Here’s a simple breakdown of each and how they combine to bring a web page to life:
 
